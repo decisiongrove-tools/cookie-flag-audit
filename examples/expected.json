@@ -1,0 +1,14 @@
+{
+  "cookies": [
+    {
+      "name": "sid",
+      "secure": true,
+      "httponly": true
+    },
+    {
+      "name": "prefs",
+      "secure": false,
+      "httponly": false
+    }
+  ]
+}

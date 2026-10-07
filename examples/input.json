@@ -1,0 +1,6 @@
+{
+  "headers": [
+    "sid=synthetic; Secure; HttpOnly",
+    "prefs=demo; SameSite=Lax"
+  ]
+}
